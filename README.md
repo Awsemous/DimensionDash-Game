@@ -7,3 +7,6 @@ MultiplayerManager.cs
 StickPlatform.cs
 New_Finish.cs
 
+To Play Dimension Dash follow these steps:
+Download Ultimate Final Hope.zip
+
