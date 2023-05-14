@@ -20,3 +20,5 @@ When you click on it you will be brought to another page asking for you to drag 
 When you click on it you will automatically be brought to the game's file location on your device and you will see the leaderboards.txt file.
 Click on it, and you will be brought back to the main website and it will ask for you to submit it.
 After clicking submit, the leaderboards will be automatically submitted, and the placements will be updated.
+
+Now Go And Play!!!!!!
