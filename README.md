@@ -30,3 +30,8 @@ Click on it, and you will be brought back to the main website and it will ask fo
 After clicking submit, the leaderboards will be automatically submitted, and the placements will be updated.
 
 Now Go And Play!!!!!!
+
+Update 8/25/2024
+Due to my completion of college, there will be no need for the site to be active still because we are funding it through AWS. So from now on the game files will be in a google drive link.
+https://drive.google.com/drive/folders/1Wb6Cury-rNR-esgvgKVOrDfLPF6TQHdo?usp=sharing
+Hope you have a good day.
